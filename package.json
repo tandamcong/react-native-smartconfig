@@ -1,38 +1,38 @@
 {
-  "_from": "react-native-smartconfig-esp@^1.0.1",
-  "_id": "react-native-smartconfig-esp@1.0.1",
+  "_from": "react-native-smartconfig-tandc@^1.0.0",
+  "_id": "react-native-smartconfig-tandc@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-rwl/3NmiiB8YO0S8fuOV5tzeB1Rx6oqjqMHhz4QUg50vzjUuWY3IO94LisI3YyPe7QH9z8MohLO+E/MFCYNMBQ==",
-  "_location": "/react-native-smartconfig-esp",
+  "_location": "/react-native-smartconfig-tandc",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "react-native-smartconfig-esp@^1.0.1",
-    "name": "react-native-smartconfig-esp",
-    "escapedName": "react-native-smartconfig-esp",
-    "rawSpec": "^1.0.1",
+    "raw": "react-native-smartconfig-tandc@^1.0.0",
+    "name": "react-native-smartconfig-tandc",
+    "escapedName": "react-native-smartconfig-tandc",
+    "rawSpec": "^1.0.0",
     "saveSpec": null,
-    "fetchSpec": "^1.0.1"
+    "fetchSpec": "^1.0.0"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-smartconfig-esp/-/react-native-smartconfig-esp-1.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/react-native-smartconfig-tandc/-/react-native-smartconfig-tandc-1.0.0.tgz",
   "_shasum": "229eb552cccf65babeadcfaa27f0f784da4050c7",
-  "_spec": "react-native-smartconfig-esp@^1.0.1",
+  "_spec": "react-native-smartconfig-tandc@^1.0.0",
   "_where": "/Users/damcongtan/wwwroot/efarmmobile",
   "author": {
-    "email": "Luca Druda"
+    "email": "Tandc"
   },
   "bugs": {
-    "url": "https://github.com/lucadruda/react-native-smartconfig/issues"
+    "url": "https://github.com/tandamcong/react-native-smartconfig/issues"
   },
   "bundleDependencies": false,
   "dependencies": {},
   "deprecated": false,
   "description": "react-native ESP8266 smartconfig module",
-  "homepage": "https://github.com/lucadruda/react-native-smartconfig#readme",
+  "homepage": "https://github.com/tandamcong/react-native-smartconfig#readme",
   "keywords": [
     "react-native",
     "react",
@@ -45,14 +45,14 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-smartconfig-esp",
+  "name": "react-native-smartconfig-tandc",
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucadruda/react-native-smartconfig.git"
+    "url": "git+https://github.com/tandamcong/react-native-smartconfig.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.0"
 }
